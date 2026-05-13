@@ -1,1 +1,1 @@
-Sol.
+Sol.This include bdf file had no Nastran Error, but when we load the Nastran OP2 file into the Hyperview the 1D stress value was 0.0 even after editing the load card or deleting the Grav Card. In this case, make use of PBEAML property for the stress plot display for viewing in the Hyperview.
